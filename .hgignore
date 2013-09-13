@@ -1,0 +1,4 @@
+syntax: glob
+Raytrace/bin/*
+Raytrace/obj/*
+*.suo
